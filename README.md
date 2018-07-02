@@ -32,3 +32,15 @@
 - Add CREATE route
 
 - Add CREATE template
+
+# Edit/Update
+
+- Add Edit Route
+
+- Add Edit Form
+
+- Add Update Route
+
+- Add Update Form
+
+- Add Method-Override
